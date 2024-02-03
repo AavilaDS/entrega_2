@@ -1,0 +1,57 @@
+.navbar {
+  box-shadow: 60px -16px teal;
+  margin: 0%;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+.banner_servicies_container {
+
+  height: 500px;
+}
+
+.banner_servicies_container {
+  background-image: url(../assets/images/images/design_studio_2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.footer {
+  background-color: rgb(35, 35, 35);
+  margin-top: 80px;
+
+}
+
+.footer_site {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.service_info {
+  height: 600px;
+}
+
+
+.card_items {
+  padding-top: 50px;
+}
+
+.card_items h3 {
+  padding-bottom: 20px;
+}
+
+.service_name_info {
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
+.container_information {
+  padding-top: 60px;
+}
+
+.contact_info {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
