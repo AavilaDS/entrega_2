@@ -2,6 +2,10 @@
   box-shadow: 60px -16px teal;
   margin: 0%;
 }
+.navbar-brand img{
+  width: 150px;
+  height: 50px;
+}
 
 .navbar-collapse {
   flex-grow: 0;
@@ -16,7 +20,7 @@
   transition: .3s;
 }
 .banner_servicies_container {
-  background-image: url(../assets/images/images/design_studio_2.jpg);
+  background-image: url(../assets/images/design_studio_2.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
