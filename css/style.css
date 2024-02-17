@@ -9,7 +9,7 @@
 }
 .footer a {
   text-decoration: none;
-  color: rgb(222, 20, 145);
+  color: #de1491;
 }
 
 .navbar {
@@ -39,8 +39,9 @@
   background-attachment: fixed;
 }
 
-.container_information {
-  padding-top: 60px;
+.general_info {
+  padding-top: 150px;
+  padding-bottom: 120px;
 }
 
 .service_info {
