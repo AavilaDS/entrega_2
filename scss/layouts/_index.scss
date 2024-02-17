@@ -1,0 +1,12 @@
+.banner_servicies_container {
+    height: 500px;
+  }
+  .hover_card :hover{
+    transform: translateY(10px);
+    transition: .3s;
+  }
+  .banner_servicies_container {
+    background-image: url(../assets/images/design_studio_2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+  }
