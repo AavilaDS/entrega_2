@@ -1,0 +1,14 @@
+$base-color :#33a0b0;
+$sec-color :#195b65;
+$ter-color :#72d7e7;
+
+h1{
+    color: $sec-color;
+}
+a {
+    color: $base-color;
+}
+
+a:hover {
+    color: $ter-color;
+}
